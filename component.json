@@ -1,0 +1,16 @@
+{
+  "name": "react",
+  "repo": "anyroadcom/component-react",
+  "version": "0.10.0",
+  "description": "React component",
+  "keywords": [
+    "react",
+    "component"
+  ],
+  "main": "react.js",
+  "scripts": [
+    "react.js",
+    "addons.js"
+  ],
+  "license": "MIT"
+}
