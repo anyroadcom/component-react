@@ -2,14 +2,14 @@
   "name": "react",
   "repo": "anyroadcom/component-react",
   "version": "0.10.0",
-  "description": "React component",
+  "description": "React component with addons",
   "keywords": [
     "react",
     "component"
   ],
-  "main": "react.js",
+  "main": "react-with-addons.js",
   "scripts": [
-    "react.js"
+    "react-with-addons.js"
   ],
   "license": "MIT"
 }
